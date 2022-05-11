@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 ### Hi I'm LuckyHunter 👋
 - 🔭 I’m currently working on Linux Platform
-- 🌱 I’m currently learning Go, Shell and Python
-- 👯 I’m looking to collaborate on Telegram and Github
+- 🌱 I’m currently learning Python, Shell and Go
+- 👯 I’m looking to collaborate on Github and Telegram
 - 🤔 I’m looking for help with Making Money
 - 💬 Ask me about anything you want if I know
 - 📫 How to reach me: mailto:chasing0806@gmail.com
