@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mailto:chasing0806@gmail.com
 - 😄 Pronouns: Nothing
 - ⚡ Fun fact: Reading, Coding, Music, Movies
-- 💬 Be free to ask me about anything [here](https://github.com/chasing66/chasing66/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/enwaiax/enwaiax/issues).
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chasing66&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chasing66&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enwaiax&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=enwaiax&show_icons=true&theme=tokyonight)
